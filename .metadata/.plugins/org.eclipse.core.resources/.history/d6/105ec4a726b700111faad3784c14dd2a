@@ -1,0 +1,4 @@
+.myClass{
+	color:#9A0707;
+	backgroundColor:'#5F5';
+}

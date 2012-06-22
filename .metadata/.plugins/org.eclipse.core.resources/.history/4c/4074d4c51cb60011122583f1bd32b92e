@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="welcome_msg">Welcome AU</string>
+	<string name="sayhello">Hello Test %s</string>
+</resources>

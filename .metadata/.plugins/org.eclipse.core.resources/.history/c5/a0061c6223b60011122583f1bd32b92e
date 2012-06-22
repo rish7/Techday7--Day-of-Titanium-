@@ -1,0 +1,7 @@
+#mylabel
+{
+	color:'#F00';
+	top:'10px';
+	left:'40%';
+	text:'Welcome all';
+}

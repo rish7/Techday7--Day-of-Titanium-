@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench version="2.0">
+<workbenchAdvisor/>
+<window height="728" maximized="true" width="1200" x="50" y="0">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout>
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="122" y="22"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="137" y="22"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="84" y="22"/>
+<coolItem id="com.aptana.ui.globalActionSet" itemType="typeToolBarContribution" x="168" y="22"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="84" y="22"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="91" y="22"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="com.aptana.editor.html" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="com.appcelerator.titanium.editor.jss" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="com.aptana.editor.xml" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="com.aptana.editor.ruby" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="com.appcelerator.titanium.ui.ide.tiappEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="com.aptana.editor.js" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1339665305900" focus="true" label="Workspace - Web">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="com.aptana.editor.js" name="app.js" partName="app.js | Hello world" path="C:/Users/rish/My Documents/Techday7/Hello world/Resources/app.js" title="app.js | Hello world" tooltip="Hello world/Resources/app.js" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Hello world/Resources/app.js"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="327" selectionTopPixel="369"/>
+</editor>
+<editor id="com.aptana.editor.js" name="app.js" partName="app.js | Techday7TW" path="C:/Users/rish/My Documents/Techday7/Techday7TW/Resources/app.js" title="app.js | Techday7TW" tooltip="Techday7TW/Resources/app.js" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Techday7TW/Resources/app.js"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2308" selectionTopPixel="1584"/>
+</editor>
+<editor id="com.aptana.editor.js" name="app.js" partName="app.js | Todo - DB" path="C:/Users/rish/My Documents/Techday7/Todo - DB/Resources/app.js" title="app.js | Todo - DB" tooltip="Todo - DB/Resources/app.js" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Todo - DB/Resources/app.js"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="368" selectionTopPixel="0"/>
+</editor>
+<editor id="com.aptana.editor.js" name="AddWindow.js" partName="AddWindow.js" path="C:/Users/rish/My Documents/Techday7/Todo - DB/Resources/ui/AddWindow.js" title="AddWindow.js" tooltip="Todo - DB/Resources/ui/AddWindow.js" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Todo - DB/Resources/ui/AddWindow.js"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1191" selectionTopPixel="655"/>
+</editor>
+<editor id="com.aptana.editor.js" name="ListWindow.js" partName="ListWindow.js" path="C:/Users/rish/My Documents/Techday7/Todo - DB/Resources/ui/ListWindow.js" title="ListWindow.js" tooltip="Todo - DB/Resources/ui/ListWindow.js" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Todo - DB/Resources/ui/ListWindow.js"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1909" selectionTopPixel="1227"/>
+</editor>
+<editor id="com.aptana.editor.js" name="db.js" partName="db.js" path="C:/Users/rish/My Documents/Techday7/Todo - DB/Resources/db.js" title="db.js" tooltip="Todo - DB/Resources/db.js" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Todo - DB/Resources/db.js"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="736" selectionTopPixel="88"/>
+</editor>
+<editor activePart="true" focus="true" id="com.aptana.editor.xml" name="strings.xml" partName="strings.xml" path="C:/Users/rish/My Documents/Techday7/Locale/i18n/en/strings.xml" title="strings.xml" tooltip="Locale/i18n/en/strings.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Locale/i18n/en/strings.xml"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="199" selectionTopPixel="0"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.ui.navigator.ProjectExplorer" partName="Project Explorer">
+<viewState CommonNavigator.LINKING_ENABLED="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0"/>
+</view>
+<view id="com.aptana.snippets.ui.views.SnippetsView" partName="Snippets">
+<viewState/>
+</view>
+<view id="com.aptana.terminal.views.terminal" partName="Terminal">
+<viewState>
+<title>Terminal</title>
+<workingDirectory>C:\Users\rish\My Documents\Techday7\Techday7TW</workingDirectory>
+</viewState>
+</view>
+<view id="com.aptana.samples.ui.SamplesView" partName="Samples">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.ProblemView" partName="Problems">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
+<columnWidths org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="90" org.eclipse.ui.ide.pathField="120" org.eclipse.ui.ide.resourceField="90" org.eclipse.ui.ide.severityAndDescriptionField="300"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="com.aptana.explorer.view" partName="App Explorer">
+<viewState CommonNavigator.LINKING_ENABLED="0" GitChangedFilesFilterEnabled="" activeProject="Techday7TW">
+<project name="Hello World - Backup">&#x0A;<selection>&#x0A;<element path="/Kitchen Sink"/>
+</selection>
+</project>
+<project name="Kitchen Sink">&#x0A;<selection>&#x0A;<element path="/Techday7TW"/>
+</selection>
+</project>
+<project name="Locale">&#x0A;<expanded>&#x0A;<element path="/Locale/Resources"/>
+</expanded>
+<selection>&#x0A;<element path="/Hello World - Backup"/>
+</selection>
+</project>
+<project name="Techday7TW">&#x0A;<selection>&#x0A;<element path="/Techday7TW"/>
+</selection>
+</project>
+<project name="Todo - DB">&#x0A;<selection>&#x0A;<element path="/Locale"/>
+</selection>
+</project>
+</viewState>
+</view>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
+<viewState/>
+</view>
+</views>
+<perspectives activePart="org.eclipse.ui.navigator.ProjectExplorer" activePerspective="com.aptana.ui.WebPerspective">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="com.aptana.ui.internal.WebPerspectiveFactory" id="com.aptana.ui.WebPerspective" label="Web"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="com.aptana.browser.actionSet"/>
+<alwaysOnActionSet id="com.aptana.ruby.debug.ui.RubyDebugActionSet"/>
+<alwaysOnActionSet id="com.aptana.editor.common.presentation"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="com.aptana.js.debug.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.presentation"/>
+<alwaysOnActionSet id="com.aptana.ui.globalActionSet"/>
+<alwaysOnActionSet id="com.aptana.terminal.actionSet"/>
+<show_view_action id="com.aptana.browser.views.webbrowser"/>
+<show_view_action id="com.aptana.explorer.view"/>
+<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<show_view_action id="com.aptana.ui.io.remoteview"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="com.aptana.samples.ui.SamplesView"/>
+<show_view_action id="com.aptana.snippets.ui.views.SnippetsView"/>
+<show_view_action id="com.aptana.terminal.views.terminal"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="com.aptana.webserver.ui.view"/>
+<new_wizard_action id="com.appcelerator.titanium.desktop.project_wizard"/>
+<new_wizard_action id="com.appcelerator.titanium.mobile.project_wizard"/>
+<new_wizard_action id="com.appcelerator.titanium.mobile.module.wizard"/>
+<new_wizard_action id="com.aptana.editor.php.NewPHPProjectWizard"/>
+<new_wizard_action id="com.aptana.ui.wizards.NewWebProject"/>
+<new_wizard_action id="com.aptana.ruby.core.ui.rubyProjectWizard"/>
+<new_wizard_action id="com.aptana.ui.wizards.new.file"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.editors.wizards.UntitledTextFileWizard"/>
+<new_wizard_action id="org.radrails.rails.ui.projectWizard"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="com.aptana.explorer.view"/>
+<view id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<view id="com.aptana.samples.ui.SamplesView"/>
+<view id="com.aptana.snippets.ui.views.SnippetsView"/>
+<fastViewBars>
+<fastViewBar fastViewLocation="1024" id="terminalArea" orientation="256" selectedTabId="com.aptana.terminal.views.terminal" style="0">
+<fastViews>
+<view id="com.aptana.terminal.views.terminal" ratio="0.29855537"/>
+<view id="org.eclipse.ui.views.ProblemView" ratio="0.29855537"/>
+</fastViews>
+</fastViewBar>
+<fastViewBar fastViewLocation="1024" id="org.eclipse.ui.internal.ViewStack@103b2f1" orientation="256" selectedTabId="org.eclipse.ui.console.ConsoleView" style="0">
+<fastViews>
+<view id="org.eclipse.ui.console.ConsoleView" ratio="0.29855537"/>
+</fastViews>
+</fastViewBar>
+</fastViewBars>
+<layout>
+<mainWindow>
+<info folder="true" part="left">
+<folder activePageID="org.eclipse.ui.navigator.ProjectExplorer" appearance="2" expanded="2">
+<page content="com.aptana.explorer.view" label="App Explorer"/>
+<page content="org.eclipse.ui.navigator.ProjectExplorer" label="Project Explorer"/>
+<page content="com.aptana.ui.io.remoteview" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="882" ratioRight="294" relationship="2" relative="left">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.19982994" ratioLeft="235" ratioRight="941" relationship="2" relative="left"/>
+<info folder="true" part="terminalArea" ratio="0.75" ratioLeft="477" ratioRight="159" relationship="4" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="2">
+<page content="com.aptana.terminal.views.terminal" label="LabelNotFound"/>
+<page content="org.eclipse.pde.runtime.LogView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ProblemView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.TaskList" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@e862ee" ratio="0.74959874" ratioLeft="467" ratioRight="156" relationship="4" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@173b909" ratio="0.74959874" ratioLeft="467" ratioRight="156" relationship="4" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="0">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@103b2f1" ratio="0.74959874" ratioLeft="467" ratioRight="156" relationship="4" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="0">
+<page content="org.eclipse.ui.console.ConsoleView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@20463e" ratio="0.75" ratioLeft="477" ratioRight="159" relationship="4" relative="left">
+<folder activePageID="com.aptana.snippets.ui.views.SnippetsView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<page content="com.aptana.samples.ui.SamplesView" label="Samples"/>
+<page content="com.aptana.snippets.ui.views.SnippetsView" label="Snippets"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.js" path="/map/Resources/app.js"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.js" path="/Techday7TW/Resources/app.js"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.js" path="/JSS Demo/Resources/app.js"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.appcelerator.titanium.editor.jss" path="/JSS Demo/Resources/app.jss"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.js" path="/Kitchen Sink/Resources/examples/button.js"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.js" path="/Locale/Resources/app.js"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.js" path="/Hello World - Backup/Resources/app.js"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.appcelerator.titanium.editor.jss" path="/Hello World - Backup/Resources/app.jss"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.js" path="/Hello World - Backup/Resources/helper2.js"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.js" path="/Hello World - Backup/Resources/helper.js"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.html" path="/Kitchen Sink/Resources/examples/youtube.html"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.js" path="/Hello World - Backup/Resources/test.js"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.appcelerator.titanium.ui.ide.tiappEditor" path="/Hello World - Backup/tiapp.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.js" path="/Hello world/Resources/app.js"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.js" path="/Techday7TW/Resources/app.js"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.js" path="/Todo - DB/Resources/app.js"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.js" path="/Todo - DB/Resources/ui/AddWindow.js"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.js" path="/Todo - DB/Resources/ui/ListWindow.js"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.js" path="/Todo - DB/Resources/db.js"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.xml" path="/Locale/i18n/en/strings.xml"/>
+</editors>
+<item historyLabel="app.js" index="0">
+<position info="not_deleted" x="193" y="0"/>
+</item>
+<item historyLabel="app.js | Techday7TW" index="1">
+<position info="not_deleted" x="2577" y="0"/>
+</item>
+<item historyLabel="app.js | JSS Demo" index="2">
+<position info="not_deleted" x="281" y="0"/>
+</item>
+<item historyLabel="app.js | JSS Demo" index="2">
+<position info="not_deleted" x="219" y="0"/>
+</item>
+<item historyLabel="app.js | JSS Demo" index="2">
+<position info="not_deleted" x="239" y="0"/>
+</item>
+<item historyLabel="app.js | JSS Demo" index="2">
+<position info="not_deleted" x="219" y="0"/>
+</item>
+<item historyLabel="app.js | JSS Demo" index="2">
+<position info="not_deleted" x="215" y="0"/>
+</item>
+<item historyLabel="app.jss" index="3">
+<position info="not_deleted" x="227" y="0"/>
+</item>
+<item historyLabel="app.js | JSS Demo" index="2">
+<position info="not_deleted" x="216" y="0"/>
+</item>
+<item historyLabel="app.jss" index="3">
+<position info="not_deleted" x="146" y="0"/>
+</item>
+<item historyLabel="app.js | JSS Demo" index="2">
+<position info="not_deleted" x="216" y="0"/>
+</item>
+<item historyLabel="app.js | JSS Demo" index="2">
+<position info="not_deleted" x="237" y="0"/>
+</item>
+<item historyLabel="app.jss" index="3">
+<position info="not_deleted" x="91" y="0"/>
+</item>
+<item historyLabel="button.js" index="4">
+<position info="not_deleted" x="206" y="0"/>
+</item>
+<item historyLabel="app.js | Locale" index="5">
+<position info="not_deleted" x="208" y="16"/>
+</item>
+<item historyLabel="app.js | Hello World - Backup" index="6">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="app.jss | Hello World - Backup" index="7">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="app.js | Hello World - Backup" index="6">
+<position info="not_deleted" x="32" y="0"/>
+</item>
+<item historyLabel="helper2.js" index="8">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="app.js | Hello World - Backup" index="6">
+<position info="not_deleted" x="32" y="0"/>
+</item>
+<item historyLabel="helper.js" index="9">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="app.js | Hello World - Backup" index="6">
+<position info="not_deleted" x="228" y="0"/>
+</item>
+<item historyLabel="youtube.html" index="10">
+<position info="not_deleted" x="578" y="0"/>
+</item>
+<item historyLabel="app.js" index="6">
+<position info="not_deleted" x="228" y="0"/>
+</item>
+<item historyLabel="app.js | Locale" index="5">
+<position info="not_deleted" x="273" y="0"/>
+</item>
+<item historyLabel="app.js" index="6">
+<position info="not_deleted" x="228" y="0"/>
+</item>
+<item historyLabel="test.js" index="11">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="app.js" index="5">
+<position/>
+</item>
+<item historyLabel="TiApp Editor" index="12"/>
+<item historyLabel="app.js" index="5">
+<position info="not_deleted" x="200" y="42"/>
+</item>
+<item historyLabel="app.js" index="13">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="app.js | Hello world" index="13">
+<position info="not_deleted" x="791" y="0"/>
+</item>
+<item historyLabel="app.js | Hello world" index="13">
+<position info="not_deleted" x="327" y="0"/>
+</item>
+<item historyLabel="app.js | Techday7TW" index="14">
+<position info="not_deleted" x="2308" y="0"/>
+</item>
+<item historyLabel="app.js | Todo - DB" index="15">
+<position info="not_deleted" x="368" y="0"/>
+</item>
+<item historyLabel="AddWindow.js" index="16">
+<position info="not_deleted" x="1191" y="0"/>
+</item>
+<item historyLabel="ListWindow.js" index="17">
+<position info="not_deleted" x="1909" y="0"/>
+</item>
+<item historyLabel="db.js" index="18">
+<position info="not_deleted" x="736" y="0"/>
+</item>
+<item active="true" historyLabel="strings.xml" index="19">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+<trimItem IMemento.internal.id="com.appcelerator.ui.trim"/>
+<trimItem IMemento.internal.id="terminalArea"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@173b909"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@103b2f1"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.xml" name="strings.xml" tooltip="Locale/i18n/en/strings.xml">
+<persistable path="/Locale/i18n/en/strings.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.js" name="db.js" tooltip="Todo - DB/Resources/db.js">
+<persistable path="/Todo - DB/Resources/db.js"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.js" name="ListWindow.js" tooltip="Todo - DB/Resources/ui/ListWindow.js">
+<persistable path="/Todo - DB/Resources/ui/ListWindow.js"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.js" name="AddWindow.js" tooltip="Todo - DB/Resources/ui/AddWindow.js">
+<persistable path="/Todo - DB/Resources/ui/AddWindow.js"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.js" name="app.js" tooltip="Todo - DB/Resources/app.js">
+<persistable path="/Todo - DB/Resources/app.js"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.js" name="app.js" tooltip="Techday7TW/Resources/app.js">
+<persistable path="/Techday7TW/Resources/app.js"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.js" name="app.js" tooltip="Hello world/Resources/app.js">
+<persistable path="/Hello world/Resources/app.js"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.appcelerator.titanium.ui.ide.tiappEditor" name="tiapp.xml" tooltip="Hello world/tiapp.xml">
+<persistable path="/Hello world/tiapp.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.appcelerator.titanium.ui.ide.tiappEditor" name="tiapp.xml" tooltip="Hello World - Backup/tiapp.xml">
+<persistable path="/Hello World - Backup/tiapp.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.js" name="app.js" tooltip="Locale/Resources/app.js">
+<persistable path="/Locale/Resources/app.js"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.js" name="test.js" tooltip="Hello World - Backup/Resources/test.js">
+<persistable path="/Hello World - Backup/Resources/test.js"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.html" name="youtube.html" tooltip="Kitchen Sink/Resources/examples/youtube.html">
+<persistable path="/Kitchen Sink/Resources/examples/youtube.html"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.js" name="helper.js" tooltip="Hello World - Backup/Resources/helper.js">
+<persistable path="/Hello World - Backup/Resources/helper.js"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.js" name="helper2.js" tooltip="Hello World - Backup/Resources/helper2.js">
+<persistable path="/Hello World - Backup/Resources/helper2.js"/>
+</file>
+</mruList>
+</workbench>

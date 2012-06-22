@@ -1,0 +1,6 @@
+var win=Ti.UI.createWindow({
+	backgroundColor:'#509FD4',
+	title:'Techday7 Twitter'
+});
+
+

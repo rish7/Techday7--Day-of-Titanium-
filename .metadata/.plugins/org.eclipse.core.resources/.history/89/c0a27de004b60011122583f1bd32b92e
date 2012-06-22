@@ -1,0 +1,10 @@
+//Create Window
+var win=Titanium.UI.createWindow({
+	backgroundColor:"#5F5"
+});
+
+var label=Titanium.UI.createLabel({
+	color:"#F00",
+	top:'10px',
+	left:'40%'
+});

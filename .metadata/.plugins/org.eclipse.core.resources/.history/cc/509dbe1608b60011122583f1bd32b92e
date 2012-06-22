@@ -1,0 +1,29 @@
+//Create Window
+var win=Titanium.UI.createWindow({
+	backgroundColor:"#5F5"
+});
+//Create label
+var label=Titanium.UI.createLabel({
+	color:"#F00",
+	top:'10px',
+	left:'40%',
+	text:'Welcome all'
+});
+
+//Add Label to Window
+win.add(label);
+
+
+
+var text=Titanium.UI.createTextField({
+	hintText:'Enter Name',
+	width:'200px',
+	top:'40px',
+	left:'10px'	
+});
+
+
+
+//To Open Window
+win.open();
+

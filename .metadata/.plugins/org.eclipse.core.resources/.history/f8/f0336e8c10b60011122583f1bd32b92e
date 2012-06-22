@@ -1,0 +1,14 @@
+exports.createButtonWithEvent=function(){
+	var btn=Titanium.UI.createButton({
+		title:'I fire on tap',
+		width:'200px'
+	});
+	
+	btn.addEventListener('click',function(e){
+		//alert('You call me?');
+		global.previousEvent='Drupal';
+		alert(global.previousEvent1);
+	});	
+	
+	return btn;
+};

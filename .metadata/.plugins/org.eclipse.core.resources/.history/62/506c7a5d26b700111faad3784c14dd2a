@@ -1,0 +1,14 @@
+var win=Ti.UI.createWindow({backgroundColor:"#FFF"});
+
+
+// Create a Label.
+var lab = Ti.UI.createLabel({
+	text : 'My Label with my styles',	
+	className:'myClass'	
+});
+
+// Add to the parent view.
+win.add(lab);
+
+
+win.open();

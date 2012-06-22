@@ -1,0 +1,16 @@
+var win = Ti.UI.currentWindow;
+
+
+// Create a Label.
+var aLabel = Ti.UI.createLabel({
+	text : 'aLabel',
+	color : '#9999',
+	font : {fontSize:12},
+	height : 50,
+	width : 150,
+	top : 100,
+	textAlign : 'center'
+});
+
+// Add to the parent view.
+win.add(aLabel);

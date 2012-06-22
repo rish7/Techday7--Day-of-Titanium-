@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="welcome_msg">Bienvenidos todos</string>
+	<string name="sayhello">¡Hola %s</string>
+	<string name="flag">images/es.png</string>
+</resources>

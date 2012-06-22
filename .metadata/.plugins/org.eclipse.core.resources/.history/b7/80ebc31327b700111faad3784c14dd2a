@@ -1,0 +1,10 @@
+.myClass{
+	color:#9A0707;
+	backgroundColor:'#5F5';
+}
+#myBtn
+{
+	Title:'My button in my style';
+	backgroundColor:'#00F';
+	backgroundSelectedColor:'#0F0'
+}

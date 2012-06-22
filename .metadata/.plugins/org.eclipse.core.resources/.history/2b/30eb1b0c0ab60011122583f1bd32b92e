@@ -1,0 +1,44 @@
+//Create Window
+var win=Titanium.UI.createWindow({
+	backgroundColor:"#5F5",
+navBarHidden:true
+});
+		//Create label
+		var label=Titanium.UI.createLabel({
+			color:"#F00",
+			top:'10px',
+			left:'40%',
+			text:'Welcome all',
+			font:{fontWeight:'bold'}
+		});
+		
+		//Add Label to Window
+		win.add(label);
+
+
+		//Create Textbox
+		var text=Titanium.UI.createTextField({
+			hintText:'Enter Name',
+			width:'200px',
+			top:'40px',
+			left:'10px',
+			color:'#000'
+		});
+		
+		win.add(text);
+
+		//Create Button
+		var button=Titanium.UI.createButton({
+			title:'Say Hello to ',
+			width:'200px',
+			left:'10px',
+			top:'100px'
+		});
+		win.add(button);
+
+	button.addEventListener('click',function(e){alert(String.format('Hello %s',text.value));});
+
+
+//To Open Window
+win.open();
+

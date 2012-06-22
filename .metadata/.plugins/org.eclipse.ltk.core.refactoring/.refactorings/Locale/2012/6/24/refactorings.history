@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;Locale/i18n/au&apos; to &apos;en-au&apos;" description="Rename resource &apos;au&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="i18n/au" name="en-au" stamp="1339676348885" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;Locale/i18n/en-au&apos; to &apos;es&apos;" description="Rename resource &apos;en-au&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="i18n/en-au" name="es" stamp="1339676826042" updateReferences="true"/>
+</session>

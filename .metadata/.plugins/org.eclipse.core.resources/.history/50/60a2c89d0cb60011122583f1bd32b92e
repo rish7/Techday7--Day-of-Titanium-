@@ -1,0 +1,3 @@
+exports.myfunction=function(){
+	alert('why you call me?');
+};

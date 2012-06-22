@@ -1,0 +1,13 @@
+	
+	// resourcesDirectory is actually the default location, so the first 
+	// argument could be omitted here.
+	file = Ti.Filesystem.getFile(Ti.Filesystem.resourcesDirectory, "textfile.txt");
+	var blob = file.read();
+	var readText = blob.text;
+	// dispose of file handle &amp; blob.
+	file = null;
+	blob = null;
+	
+
+
+

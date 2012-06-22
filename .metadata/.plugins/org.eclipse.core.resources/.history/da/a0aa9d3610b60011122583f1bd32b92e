@@ -1,0 +1,6 @@
+function add(a,b)
+{
+	alert(a+" + "+b+" = "+(a+b));
+	global.techday7='Day of Titanium';
+	alert();
+}

@@ -1,0 +1,8 @@
+exports.createButtonWithEvent=function(){
+	var btn=Titanium.UI.createButton({
+		title:'I fire when tap',
+		width:'200px'
+	});
+	
+	alert('You call me?');
+};

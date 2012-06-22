@@ -1,0 +1,5 @@
+.mystyle
+{
+	color:'#F00';
+	text:'Welcome all';
+}
