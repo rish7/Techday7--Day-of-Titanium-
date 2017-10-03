@@ -15,7 +15,7 @@
 	// Runs the function when the data is ready for us to process
 	loader.onload = function() 
 	{
-		var tweets = eval('('+this.responseText+')');
+		var tweets = JSON.stringfy(this.responseText);
 		tweets = tweets.results;
 		//alert("this.responseText = "+this.responseText);
 		//alert("tweets.length = "+tweets.length);
